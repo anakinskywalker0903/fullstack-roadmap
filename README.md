@@ -41,7 +41,7 @@ Complete a structured full-stack roadmap within 2 months during my holidays by c
 fullstack-journey/
 │
 ├── notes/
-├── html-css/
+├── html/
 ├── javascript/
 ├── react/
 ├── backend/
@@ -96,7 +96,7 @@ The goal is not perfection, but continuous improvement.
 
 # Current Progress
 
-- [ ] HTML
+- [✔️] HTML
 - [ ] CSS
 - [ ] JavaScript
 - [ ] Git & GitHub
