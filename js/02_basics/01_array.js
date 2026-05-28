@@ -37,5 +37,3 @@ const myn2 = myArr.splice(1,3)
 console.log(myn1);
 console.log(myn2);
 
-
-/// JS ARRAYS PART 02
