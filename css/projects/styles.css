@@ -1,6 +1,11 @@
-html{
+header{
     background-color: antiquewhite;
     font-family: cursive;
     color: darkgrey;
 }
-
+nav:visited{
+    color: aqua;
+}
+footer{
+    color: aliceblue;
+}
