@@ -1,3 +1,5 @@
+const { Component } = require("react")
+
 // const tinderUser = new Object() singleton object
 const tinderUser= {} //non singleton object 
 
@@ -44,13 +46,37 @@ const users = [
 ]
 
 users[1].email
-console.log(tinderUser);
+// console.log(tinderUser);
 
 // console.log(Object.keys(tinderUser));
 // console.log(Object.values(tinderUser));
 // console.log(Object.entries(tinderUser));
 
-console.log(tinderUser.hasOwnProperty('isLoggedin'));
+// console.log(tinderUser.hasOwnProperty('isLoggedin'));
 
 
 
+const course = {
+    coursename: "Js in hindi",
+    price: "999",
+    courseInstructor: "Rohit"
+}
+
+// (course.courseInstructor)
+
+const {courseInstructor: instructor} = course
+
+console.log(instructor);
+
+// {
+//     "name" : "rohit",
+//     "coursename" : "Js in hindi",
+//     "price": "free"
+// }
+
+
+[
+    {},
+    {},
+    {}
+]
