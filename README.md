@@ -1,135 +1,159 @@
 # Full Stack Development Journey 🚀
 
-This repository documents my complete full-stack development learning journey and projects.
+Started: **13 May 2026**
 
-## Goal
-Complete a structured full-stack roadmap within 2 months during my holidays by consistently learning, building, and deploying projects.
+This repository documents my journey from knowing basic web development concepts to becoming a capable full-stack engineer.
 
----
-
-# Tech Stack & Topics
-
-## Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Tailwind CSS
-
-## Backend
-- Node.js
-- Express.js
-- REST APIs
-- Authentication (JWT)
-
-## Database
-- PostgreSQL
-- SQL Basics
-
-## DevOps & Deployment
-- Git & GitHub
-- Linux Basics
-- AWS Basics
-- GitHub Actions
-- Deployment
+The goal is not to rush through tutorials or collect certificates. The goal is to understand how modern web applications are built, deployed, and maintained by learning through projects and consistent practice.
 
 ---
 
-# Repository Structure
+## Why This Repository Exists
+
+Over the next year, I want to transform from a Computer Science student into an engineer who can:
+
+* Build complete web applications from scratch
+* Design and consume APIs
+* Work with databases
+* Deploy applications to production
+* Collaborate using Git and GitHub
+* Solve real problems through software
+
+This repository serves as both a learning journal and a record of that progress.
+
+---
+
+## Roadmap
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* Authentication (JWT)
+
+### Database
+
+* PostgreSQL
+* SQL
+
+### DevOps & Deployment
+
+* Git & GitHub
+* Linux Basics
+* AWS Fundamentals
+* GitHub Actions
+* Deployment & Monitoring
+
+---
+
+## Repository Structure
 
 ```text
-fullstack-journey/
+fullstack-roadmap/
 │
-├── notes/
 ├── html/
+├── css/
 ├── javascript/
 ├── react/
 ├── backend/
 ├── database/
 ├── devops/
+├── notes/
 └── resources/
 ```
 
 ---
 
-# Learning Philosophy
+## Progress Tracker
 
-This repository is focused on:
-- Learning by building
-- Consistent practice
-- Project-based learning
-- Writing clean and understandable code
-- Tracking progress publicly
+### Completed
 
-The goal is not perfection, but continuous improvement.
+* [x] HTML Fundamentals
+* [x] CSS Fundamentals
+* [x] Flexbox
+* [x] Flexbox Froggy (24/24 Levels)
+* [x] Tailwind CSS Fundamentals
+* [x] JavaScript Fundamentals
+* [x] JavaScript Arrays & Objects
+* [x] Functions & Scope
+* [x] DOM Manipulation (In Progress)
 
----
+### Upcoming
 
-# Projects
-
-## HTML & CSS
-- Portfolio Website
-- Landing Pages
-- Website Clones
-
-## JavaScript
-- Calculator
-- Todo App
-- Weather App
-- API Projects
-
-## React
-- Dashboard UI
-- Movie Search App
-- Full Frontend Applications
-
-## Backend
-- REST APIs
-- Authentication System
-- CRUD Applications
-
-## Full Stack
-- Complete Full Stack Projects
-- Deployment Practice
+* [ ] Events
+* [ ] Async JavaScript
+* [ ] Promises
+* [ ] Fetch API
+* [ ] React
+* [ ] Node.js
+* [ ] Express.js
+* [ ] PostgreSQL
+* [ ] Authentication
+* [ ] Deployment
+* [ ] AWS Basics
 
 ---
 
-# Current Progress
+## Projects
 
-- [✔️] HTML
-- [ ] CSS
-- [ ] JavaScript
-- [ ] Git & GitHub
-- [ ] React
-- [ ] Node.js
-- [ ] Express.js
-- [ ] PostgreSQL
-- [ ] Authentication
-- [ ] Deployment
-- [ ] AWS Basics
+### HTML & CSS
 
----
+* Personal Profile Website
+* Landing Pages
+* Portfolio Website
 
-# Rules for This Journey
+### JavaScript
 
-- Commit regularly
-- Build projects continuously
-- Learn concepts through implementation
-- Push code even if imperfect
-- Improve projects over time
+* Calculator
+* To-Do App
+* Weather App
+* API Based Projects
 
----
+### React
 
-# Future Goals
+* Interactive Dashboards
+* Search Applications
+* Full Frontend Projects
 
-- Build production-level projects
-- Learn advanced backend development
-- Explore DevOps deeply
-- Create strong portfolio projects
-- Prepare for internships and placements
+### Backend
+
+* REST APIs
+* CRUD Applications
+* Authentication Systems
+
+### Full Stack
+
+* Production-Ready Web Applications
+* Deployment Practice
 
 ---
 
-# Connect
+## Learning Philosophy
 
-This repository represents my learning journey as I grow into a full-stack developer.
+* Learn by building
+* Push code consistently
+* Focus on understanding, not memorization
+* Finish projects before starting new ones
+* Treat mistakes and bugs as part of the process
+* Improve previous work instead of chasing perfection
+
+---
+
+## Current Mission
+
+Become placement-ready before entering my final year by building a strong foundation in software engineering, full-stack development, and modern web technologies.
+
+Every commit represents progress.
+Every project represents learning.
+Every bug represents experience.
+
+Let's build.
